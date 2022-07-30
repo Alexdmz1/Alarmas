@@ -1,4 +1,4 @@
-/// @description movimientos aleatorios
+/// @description movimientos aleatorios sin alarma
 
 timer--;
 
