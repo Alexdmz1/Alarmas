@@ -1,5 +1,5 @@
 /// @description alarma inicial
-// You can write your code in this editor
+// 
 
 speed = 1;
 
